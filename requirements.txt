@@ -1,0 +1,5 @@
+aiohttp
+requests
+discord_webhook
+requests.exceptions
+ab5
