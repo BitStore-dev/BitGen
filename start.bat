@@ -1,4 +1,4 @@
 @echo off
 cls
-title NitroGenFree
-python "NitroGenFree.py"
+title BitGen - Nitro Generator
+python "BitGen.py"
