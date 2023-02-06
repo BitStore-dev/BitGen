@@ -54,3 +54,4 @@ That's all !
 
 
 Made with ❤️ by [DaniDuese](https://discord.com/users/1006086677007183922)
+Credits to [Arctic](https://articoff.github.io/)
